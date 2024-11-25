@@ -27,7 +27,7 @@ def total_check():
 
 
 url = 'https://kauth.kakao.com/oauth/token'  
-rest_api_key = '65b126bbb86cdc90b1a972f905f4f4b6'  
+rest_api_key = '******************'  
 redirect_uri = 'https://localhost:3000'  
 authorize_code = 'yBwRFRCESyOvFXRCnRGV2Sd4TrY9jG6oI7Lsk4a_VGnCjy5CfdPFhgNaJ0ybGnXCz8dwtAo9cpgAAAGI2jxGFg'  
 
